@@ -75,13 +75,13 @@ Free Claude Code routes Anthropic Messages API traffic from Claude Code (CLI and
 macOS/Linux:
 
 ```bash
-curl -fsSL "https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.sh?raw=1" | sh
+curl -fsSL "https://github.com/Tonklaistonton/free-claude-code/blob/main/scripts/install.sh?raw=1" | sh
 ```
 
 Windows PowerShell:
 
 ```powershell
-irm "https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.ps1?raw=1" | iex
+irm "https://github.com/Tonklaistonton/free-claude-code/blob/main/scripts/install.ps1?raw=1" | iex
 ```
 
 Review the installers at [scripts/install.sh](https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.sh) and [scripts/install.ps1](https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.ps1). They install Claude Code and Codex when missing, then install or update the proxy. Re-run these commands to update to the latest version.
